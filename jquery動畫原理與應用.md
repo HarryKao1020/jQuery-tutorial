@@ -1,4 +1,8 @@
 # jQuery 動畫操作原理
+## 載入外掛:
+* jquery更改顏色 https://cdnjs.cloudflare.com/ajax/libs/jquery-color/2.1.2/jquery.color.min.js
+* jquery使用的過渡效果: https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js
+* velocity https://cdnjs.cloudflare.com/ajax/libs/velocity/1.5.0/velocity.min.js
 ## 1. hide / show (時間,時間完後要執行的函數)  : 有縮放效果
 
 html
